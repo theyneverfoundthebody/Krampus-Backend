@@ -80,7 +80,7 @@ int main() {
         FreezeProcess(processId);
         Sleep(5000);
         ThawProcess(processId);
-        std::cout << "RobloxPlayerBeta.exe unfrozen." << std::endl;
+        std::cout << "RobloxPlayerBeta.exe attached >>Removed DLL Lua Production too prevent errors and so people dont remake krampus." << std::endl;
     }
 
     double errorChance = static_cast<double>(rand()) / RAND_MAX;
